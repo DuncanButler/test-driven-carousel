@@ -27,7 +27,7 @@ export default [
     }),
     imgUrl:
       'https://images.unsplash.com/photo-1484249170766-998fa6efe3c0?w=1080' +
-      '&ixid=eyJhcHBfaWQiOjIzODE4fQ&s=f56c763ccf86e87644b049c9abbcf455'
+      '&ixid=eyJhcHBfaWQiOjIzODE4fQ&s=f56c763ccf86e87644b049c9abbcf455',
   },
   {
     description: 'Barcelona',
