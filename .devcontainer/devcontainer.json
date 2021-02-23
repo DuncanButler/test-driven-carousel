@@ -19,6 +19,7 @@
 		"benjaminadk.emojis4git",
 		"wallabyjs.wallaby-vscode",
 		"hex-ci.stylelint-plus",
+		"wallabyjs.quokka-vscode",
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
