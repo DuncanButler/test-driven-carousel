@@ -20,6 +20,7 @@
 		"wallabyjs.wallaby-vscode",
 		"hex-ci.stylelint-plus",
 		"wallabyjs.quokka-vscode",
+		"tlent.jest-snapshot-language-support",
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
