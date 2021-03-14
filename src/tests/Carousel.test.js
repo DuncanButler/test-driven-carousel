@@ -42,7 +42,7 @@ describe('Carousel', () => {
       const mounted = mount(<Carousel slides={slides} slideIndex={1} />)
       expect(mounted.find(CoreCarousel).prop('slideIndex')).toBe(1)
       mounted.setProps({ slideIndex: 0 })
-      expect(mounted.find(CoreCarousel).props('slideIndex')).toBe(0)
+      expect(mounted.find(CoreCarousel).prop('slideIndex')).toBe(0)
     })
   })
 
